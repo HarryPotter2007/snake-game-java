@@ -99,7 +99,3 @@ Enter direction (WASD):
 - Food spawns randomly on any empty cell
 
 ---
-
-## 🙋 Author
-
-**Rux** — [@HarryPotter2007](https://github.com/HarryPotter2007)
